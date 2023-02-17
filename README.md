@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 l've been learning codeing such as python, c/c++ and html/css/javascript
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning R
+* 🧠  I'm learning React.js, SQL, Machine Learning + Deep Learning and more learning python, html/css/javascript
 
 <a href="https://www.github.com/robot-eng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/robot-eng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
