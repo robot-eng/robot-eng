@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Watchanan Saengsuwan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Watchanan Saengsuwan   <a href="https://www.github.com/robot-eng" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/robot-eng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ============================================================================================================================================
 
 l've been learning codeing such as python, c/c++ and html/css/javascript
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning React.js, SQL, Machine Learning + Deep Learning and more learning python, html/css/javascript
-
-<a href="https://www.github.com/robot-eng" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/robot-eng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<p align="center">
+<a href="http://www.github.com/robot-eng"><img src="https://github-readme-stats.vercel.app/api?username=robot-eng&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robot-eng's GitHub stats" /></a>
+</p>
 
 ### Skills
 <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="100">
