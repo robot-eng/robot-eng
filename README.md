@@ -5,7 +5,7 @@ src="https://img.shields.io/github/followers/robot-eng?logo=github&style=for-the
 l've been learning codeing such as python, c/c++ and html/css/javascript
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning React.js, SQL, Machine Learning + Deep Learning and more learning python, html/css/javascript
+* 🧠  I'm learning R, React.js, SQL, Machine Learning + Deep Learning and more learning python, html/css/javascript
 <p align="center">
 <a href="http://www.github.com/robot-eng"><img src="https://github-readme-stats.vercel.app/api?username=robot-eng&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robot-eng's GitHub stats" /></a>
 </p>
