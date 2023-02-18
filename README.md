@@ -8,6 +8,7 @@ l've been learning codeing such as python, c/c++ and html/css/javascript
 
 <a href="https://www.github.com/robot-eng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/robot-eng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 
 ### Skills
 <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="100">
