@@ -39,8 +39,4 @@ l've been learning codeing such as python, c/c++ and html/css/javascript
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<p align="center"><a href="http://www.github.com/robot-eng"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=robot-eng&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
-
 <a href="https://github.com/robot-eng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robot-eng&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%9%Languages" alt="Top Languages" /></a><img src="https://transcode-v2.app.engoo.com/image/fetch/f_auto,c_limit,h_256,dpr_3/https://assets.app.engoo.com/images/63TKBXnpqTv0j2oXPK1Wuy.gif" width="400" align="right" />
