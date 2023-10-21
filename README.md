@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Watchanan Saengsuwan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/robot-eng" target="_blank" rel="noreferrer"><img
+My name is Watchanan Saengsuwan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/robot-eng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/robot-eng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ============================================================================================================================================
 
@@ -6,9 +6,6 @@ l've been learning codeing such as python, c/c++ and html/css/javascript
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning R, React.js, SQL, Machine Learning + Deep Learning and more learning python, html/css/javascript
-<p align="center">
-<a href="http://www.github.com/robot-eng"><img src="https://github-readme-stats.vercel.app/api?username=robot-eng&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robot-eng's GitHub stats" /></a>
-</p>
 
 ### OS, Software
 
