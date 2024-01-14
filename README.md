@@ -29,11 +29,11 @@ l've been learning codeing such as python, c/c++ and html/css/javascript
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs.svg" width="36" height="36" alt="Nodejs" /></a>
 </p>
-
-### Socials
+---
+### 🌐 Socials
 
 <p align="left"> <a href="https://github.com/robot-eng?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
+---
 ### Badges
 
 <a href="https://github.com/robot-eng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robot-eng&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%9%Languages" alt="Top Languages" /></a><img src="https://transcode-v2.app.engoo.com/image/fetch/f_auto,c_limit,h_256,dpr_3/https://assets.app.engoo.com/images/63TKBXnpqTv0j2oXPK1Wuy.gif" width="400" align="right" />
