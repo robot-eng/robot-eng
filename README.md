@@ -34,7 +34,7 @@ l've been learning codeing such as python, c/c++ and html/css/javascript
 
 ### 🌐 Socials
 
-<p align="left"> <a href="https://github.com/robot-eng?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/robot-eng?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/robot-eng?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/robot-eng?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@FAN-Sefe_Time" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/watchanan-s-055938273" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 ---
