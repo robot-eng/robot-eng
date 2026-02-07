@@ -32,16 +32,29 @@
 
 ## 🧩 Skill Matrix
 
-| 💠 Category | ⚡ Technologies |
-|-----------|----------------|
-| 🧠 Programming | Python, C, C++, JavaScript |
-| 🤖 AI / ML | PyTorch, TensorFlow, Keras |
-| 📊 Data | NumPy, Pandas |
-| 👁️ Vision | OpenCV |
-| 🌐 Web | HTML, CSS, React, Node.js, Bootstrap |
-| 🔌 Embedded | Arduino, Raspberry Pi, micro:bit |
-| 🛠️ Tools | Git, VS Code, Linux |
-| 💻 OS | Ubuntu, Windows |
+<!-- Skills Table : Full Width -->
+
+<table style="
+  width:100%;
+  table-layout: fixed;
+">
+  <thead>
+    <tr>
+      <th style="width:35%; padding:16px;">💠 Category</th>
+      <th style="width:65%; padding:16px;">⚡ Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🧠 Programming</td><td>Python, C, C++, JavaScript</td></tr>
+    <tr><td>🤖 AI / ML</td><td>PyTorch, TensorFlow, Keras</td></tr>
+    <tr><td>📊 Data</td><td>NumPy, Pandas</td></tr>
+    <tr><td>👁️ Vision</td><td>OpenCV</td></tr>
+    <tr><td>🌐 Web</td><td>HTML, CSS, React, Node.js, Bootstrap</td></tr>
+    <tr><td>🔌 Embedded</td><td>Arduino, Raspberry Pi, micro:bit</td></tr>
+    <tr><td>🛠️ Tools</td><td>Git, VS Code, Linux</td></tr>
+    <tr><td>💻 OS</td><td>Ubuntu, Windows</td></tr>
+  </tbody>
+</table>
 
 ---
 
