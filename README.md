@@ -25,7 +25,7 @@
 ## 🌈 About Me
 
 <p>
-<span style="color:#00FA9A;">📍 Location:</span> Thailand 🇹🇭 <span style="color:#FFD700;">🎯 Focus:</span> Robotics, AI, Software Engineering <span style="color:#FF69B4;">🧠 Learning:</span> Machine Learning, Deep Learning, Web Tech <span style="color:#7CFC00;">⚙️ Passion:</span> Hardware + Software + Intelligence <span style="color:#00BFFF;">🚀 Goal:</span> Robotics / AI Engineer
+<span style="color:#00FA9A;">📍 Location:</span> Thailand 🇹🇭 / <span style="color:#FFD700;">🎯 Focus:</span> Robotics, AI, Software Engineering / <span style="color:#FF69B4;">🧠 Learning:</span> Machine Learning, Deep Learning, Web Tech / <span style="color:#7CFC00;">⚙️ Passion:</span> Hardware + Software + Intelligence / <span style="color:#00BFFF;">🚀 Goal:</span> Robotics / AI Engineer / 
 </p>
 
 ---
@@ -64,11 +64,11 @@
 
 ## 🚧 Current Missions 🚀
 
-- 🤖 Develop intelligent robotic systems - 🧠 Train ML / DL models - 👁️ Computer Vision applications  - 🌐 Full-stack web apps  - 📊 Data analysis & visualization  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF6A00&center=true&vCenter=true&width=750&lines=%5BROBOT%5D+Develop+intelligent+robotic+systems;%5BML%5D+Train+Machine+Learning+%26+Deep+Learning+models;%5BCV%5D+Computer+Vision+applications;%5BWEB%5D+Full-stack+web+applications;%5BDATA%5D+Data+analysis+%26+visualization" />
+</p>
 
 ---
-
-<hr style="height:2px;border:none;background:linear-gradient(to right,#FFD700,#FF69B4,#00BFFF);" />
 
 ## 🌐 Connect With Me
 
